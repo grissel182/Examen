@@ -1,0 +1,249 @@
+/*fuentes------*/
+.fontdosis{
+	font-family:'Dosis';
+}
+.fontawesome{
+	font-family: 'Awesome'
+}
+.fontopen{
+	font-family: 'Open Sans';
+	font-weight:lighter;
+}
+.fontkameron{
+	font-family: 'Kameron'
+}
+
+.pink{
+	color: #F90650;
+}
+.bold{
+	font-weight: 700;
+}
+.bolder{
+	font-weight: 800;
+}
+
+.text-white{
+	color: white;
+}
+.fs35{
+	font-size: 35px;
+}
+.fs30{
+	font-size: 30px;
+}
+.fs18{
+	font-size: 18px;
+}
+.fs11{
+	font-size: 11px;
+}
+.dark-gray{
+	color: #6A6666;
+}
+.line{
+	line-height: 30px;
+}
+.fs10{
+	font-size: 10px;
+}
+
+/*clases para el menu, checar la tipo y el color del fondo */
+.nolist{
+	display: inline-block;
+}
+.bg-gris{
+	background-color: #2E2D33;
+}
+.linea-1{
+	background-color: black;
+	width: 100%;
+	height: 10px;
+	border: none;
+}
+.p-20{
+	padding: 20px 0;
+}
+.p-30{
+	padding: 30px 0;
+}
+header nav li a:hover{
+	color: #F90650;
+}
+header a{
+	text-decoration: none;
+	color: white;
+}
+/*siguientes secciones__________*/
+.fondo{
+	background-color: #D0CFCF;
+}
+.mt-10{
+	margin-top: 10%;
+}
+.mb-10{
+	margin-bottom: 10%;
+}
+
+/*botones*/
+.btn-read{
+	background-color: #B4B1B1;
+	color: white;
+	font-size: 11px;
+	height: 25px;
+	width: 100px;
+	border-radius: 20px;
+}
+.btn-load{
+	margin-left: 47%;
+	background-color: #605D5D;
+	width: 120px;
+	height: 25px;
+	border-radius: 20px;
+	font-size: 11px;
+
+}
+.btn-top{
+	border-radius: 100%;
+	background-color: gray;
+	color: #353131;
+	width: 46px;
+	height: 46px;
+	position: absolute;
+	right:10px;
+	padding: 15px 8px;
+	margin: 25px;
+}
+.follow{
+	border-radius: 10px;
+	background-color: #817C7C;
+	width: 36%;
+	margin-left: 30%;
+}
+.pd-2{
+	padding: 2%;
+}
+/*iconitos*/
+.icon{
+	width: 16px;
+	height: 13px;
+	
+}
+.text-gris{
+	color: #B1AEAE;
+}
+.ml-10{
+	margin-left: 13%;
+}
+
+.latest:hover{
+	color: #DA1515;
+}
+.eye:hover{
+	background-image: url(../img/eye-2.png);
+	background-repeat: no-repeat;
+}
+.eye{
+	background-image: url(../img/eye-1.png);
+	background-repeat: no-repeat;
+}
+/*siguiente seccion latest projects----*/
+.may{
+	text-transform: uppercase;
+}
+.mr-15{
+	margin-right: 18px;
+}
+.menu-2 li a{
+	color: #888;
+}
+.menu-2 li a:hover{
+	color: #454242;
+	font-weight: bold;
+}
+.fs24{
+	font-size: 24px;
+}
+.line-20{ /*LINE height: DE L TEXTO */
+	line-height: 20px;
+	margin-top: 25px;
+}
+.twitt-1{
+	width: 60%;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+.w-80{
+	width: 80%;
+}
+
+/*input---estilo*/
+input{
+	background-color: black;
+	border: black;
+	color: gray;
+	padding: 10px;
+}
+.over{
+	background-color: black;
+	position: absolute;
+	border-radius: 0px 10px 10px 0px;
+}
+.p-comilla{
+	position: absolute;
+}
+.ml-25{
+	margin-left: 28px;
+}
+.lineas{
+	border:2px dotted #DBDADA;
+}
+
+
+/*footer*/
+.redes{
+	display: inline-block;
+	border: 1px dotted gray;
+	width: 15%;
+	height: 35px;
+	border-radius: 100%;
+}
+footer{
+	background-color: /*?????????????*/;
+}
+.no-dot{
+	list-style: none;
+}
+.inline{
+	display: inline-block;
+}
+.btn-rosa{
+	color: white;
+	border-radius: 5px;
+	background-color: #F90650;
+}
+.pd-1{
+	padding: 1%;
+}
+.rosa:hover{
+	color: #F90650;
+}
+.pdl-5{
+	padding: 10px 5px 5px 10px;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+footer a:hover{
+	color: #F90650;
+}
+.linea-gris{
+	background-color: gray;
+	height: 1px;
+	border: none;
+}
+.bordesend{
+	border-radius: 10px 0px 0px 10px;
+}
