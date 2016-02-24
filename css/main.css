@@ -67,7 +67,7 @@
 .p-30{
 	padding: 30px 0;
 }
-header nav li a:hover{
+header nav a li:hover{
 	color: #F90650;
 }
 header a{
